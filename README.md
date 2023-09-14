@@ -72,3 +72,7 @@
   <li><i><a href="https://pep.co.ir/suniar/">Suniar</a></i>:<ul><li>a Report Management portal for merchant’s transactions
 </li></ul></li>
 </ul>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.![image](https://github.com/sh-tajdini/sh-tajdini/assets/66368157/493906c8-57ee-4884-a6eb-1159fdbd1224)
