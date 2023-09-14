@@ -39,7 +39,9 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-		<img src="https://img.shields.io/badge/Linkedin%2331A8FF.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/shervin-tajdini/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 </p>
 
@@ -47,9 +49,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://www.torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
-  </a>
+<!--     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sh-tajdini&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> -->
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-tajdini&theme=radical&hide_border=true">		  
 </p>
 <br>
