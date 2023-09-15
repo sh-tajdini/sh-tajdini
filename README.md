@@ -1,6 +1,15 @@
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.
+In my previous role as a front-end developer at Getware, I led efforts to migrate the website to ReactJs and NextJS platforms, resulting in improved user experience and maintenance efficiency. I played a key role in enhancing website performance through optimizations like image optimization, lazy-loading, caching, WebSocket integration, and server-side rendering, leading to a significant decrease in website load time. My collaboration with the development team and the use of RESTful APIs allowed us to manipulate datasets effectively.
+
+One of my achievements at Getware was implementing comprehensive testing strategies using Cypress and Jest, which led to a 15% decrease in critical bugs and issues reported by clients. Additionally, I worked closely with our designer to redesign the website, resulting in a remarkable increase in the conversion rate from 3% to 10%. I also integrated the ChatGPT API to extract and process data, resulting in a 30% improvement in response accuracy.
+
+During my tenure at Pasargad Electronic Payment, I managed a team of 10 developers and designers, ensuring smooth collaboration and successful project execution. I actively participated in the design and development of ReactJs-based solutions for over 20 clients, delivering high-quality products. My optimization efforts for mobile devices increased mobile user engagement by 20%. I also played a pivotal role in launching the development infrastructure (CI/CD), saving 40 monthly hours on repetitive tasks.
+
+As a proactive front-end developer, I am accustomed to delivering cross-browser-compatible websites and have created comprehensive documentation to improve code clarity and maintainability. I have successfully managed multiple projects, including Playground, Getware, AVAND, SUNA, and SUNIAR, each with its unique set of challenges and requirements.
+
+My educational background includes a Bachelor's degree in computer engineering from Khaje Nasir Toosi University of Technology, where I earned a place among the top 10 students in the program. I also hold a Master's degree in business administration (MBA) from Tehran University.
+
 ##
 <p align="center">
   <a href="https://github.com/sh-tajdini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shervin;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
