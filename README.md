@@ -1,3 +1,7 @@
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.
+##
 <p align="center">
   <a href="https://github.com/sh-tajdini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shervin;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
@@ -39,9 +43,6 @@
 </li></ul></li>
 </ul>
 
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
-
-Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.
 ##
 <p>
 <div align="center">
