@@ -2,40 +2,6 @@
   <a href="https://github.com/sh-tajdini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shervin;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Typescript-00AED8.svg?style=for-the-badge&logo=Typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
-</p>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=white">	
-</div>
-</p>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-</div>
-</p>
-
-
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
@@ -75,4 +41,36 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.![image](https://github.com/sh-tajdini/sh-tajdini/assets/66368157/493906c8-57ee-4884-a6eb-1159fdbd1224)
+Experienced Frontend Developer with over five years of expertise in JavaScript, HTML5, CSS3, and React, proficiently crafting progressive web apps and responsive websites. Proficient in efficiently managing all phases of the Software Development Life Cycle (SDLC). I am eager to enhance further my frontend skills in technologies like SWR, Typescript, and TDD. Seeking opportunities to contribute my expertise in a company with an innovative product and an environment that fosters remarkable work.
+##
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Typescript-00AED8.svg?style=for-the-badge&logo=Typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=white">	
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+</p>
