@@ -6,10 +6,6 @@ One of my achievements at Getware was implementing comprehensive testing strateg
 
 During my tenure at Pasargad Electronic Payment, I managed a team of 10 developers and designers, ensuring smooth collaboration and successful project execution. I actively participated in the design and development of ReactJs-based solutions for over 20 clients, delivering high-quality products. My optimization efforts for mobile devices increased mobile user engagement by 20%. I also played a pivotal role in launching the development infrastructure (CI/CD), saving 40 monthly hours on repetitive tasks.
 
-As a proactive front-end developer, I am accustomed to delivering cross-browser-compatible websites and have created comprehensive documentation to improve code clarity and maintainability. I have successfully managed multiple projects, including Playground, Getware, AVAND, SUNA, and SUNIAR, each with its unique set of challenges and requirements.
-
-My educational background includes a Bachelor's degree in computer engineering from Khaje Nasir Toosi University of Technology, where I earned a place among the top 10 students in the program. I also hold a Master's degree in business administration (MBA) from Tehran University.
-
 ##
 <p align="center">
   <a href="https://github.com/sh-tajdini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shervin;I+love+Programming;I+love+React;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
