@@ -40,8 +40,7 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 <p></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">Projects
-<ul>			
-	<li><i><a href="https://playground.getware.ai/">Playground</a></i>:<ul><li>an interactive analytical platform</li></ul></li>
+<ul>
 	<li><i><a href="https://app.getware.ai/auth/login">Getware</a></i>:<ul><li>a product teams’ platform to get customers’ information
 </li></ul></li>
 	<li><i><a href="https://panel.avandclub.ir/">Avand</a></i>:<ul><li>a discount platform project</li></ul></li>
