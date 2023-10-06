@@ -50,6 +50,13 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
   </ul>
   </li>
 	<li><i><a href="https://react-my-burger-f2217.web.app/">BurgerBuilder</a></i>:<ul><li>a burger builder website</li></ul></li>
+	<li><i><a href="https://dapper-toffee-5f8bf2.netlify.app/login?redirect=%2F">ClientPanel</a></i>:<ul><li>a Socail media platform</li></ul></li>
+	<li><i><a href="https://shiny-chebakia-78e98b.netlify.app/">LoopLab</a></i>:<ul><li>a Socail media and revenue platform</li></ul></li>
+	<li><i><a href="https://illustrious-parfait-fc0026.netlify.app/">Glozzom</a></i>:<ul><li>a sample Intractive website</li></ul></li>
+	<li><i><a href="https://beautiful-taiyaki-5cedf9.netlify.app/">Blogen</a></i>:<ul><li>a sample admin website</li></ul></li>
+	<li><i><a href="https://visionary-faloodeh-33db6c.netlify.app/">Mizux</a></i>:<ul><li>a bootstrap sample website</li></ul></li>
+	<li><i><a href="https://cosmic-clafoutis-c8dbc8.netlify.app/">Portfolio</a></i>:<ul><li>a sample portfoli website</li></ul></li>
+	<li><i><a href="https://golden-blancmange-011c5c.netlify.app/#/">ContactManager</a></i>:<ul><li>a contact manager redux website</li></ul></li>
 </ul>
 
 ##
