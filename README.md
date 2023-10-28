@@ -27,7 +27,7 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 <br/>
 <p align="center">
 <!--      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sh-tajdini&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> -->
-<!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-tajdini&theme=radical&hide_border=true">		   -->
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-tajdini&theme=radical&hide_border=true">		  
 </p>
 <br>
 
