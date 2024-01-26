@@ -43,7 +43,7 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 <ul>
 	<li><i>Getware</i>:<ul><li>a product teams’ platform to get customers’ information
 </li></ul></li>
-	<li><i>Avand></i>:<ul><li>a discount platform project</li></ul></li>
+	<li><i>Avand</i>:<ul><li>a discount platform project</li></ul></li>
 <li><i><a href="https://pep.co.ir/suna">Suna</a></i>:<ul><li>a Loyalty platform project</li></ul></li>
   <li><i><a href="https://pep.co.ir/suniar/">Suniar</a></i>:<ul><li>a Report Management portal for merchant’s transactions
 </li>
