@@ -39,6 +39,9 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 </p>
 <p></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sh-tajdini&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">Projects
 <ul>
 	<li><i>Getware</i>:<ul><li>a product teams’ platform to get customers’ information
