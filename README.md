@@ -41,8 +41,8 @@ During my tenure at Pasargad Electronic Payment, I demonstrated my leadership sk
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sh-tajdini&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<!--    ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sh-tajdini&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">Projects
 <ul>
