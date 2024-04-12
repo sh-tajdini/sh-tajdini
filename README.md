@@ -28,16 +28,12 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 <p align="center">
 <!--      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sh-tajdini&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sh-tajdini&theme=radical">	
+    <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-tajdini&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br>
 
 [![Shervin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sh-tajdini&theme=react)](https://github.com/sh-tajdini/github-readme-activity-graph)
 
-<p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-tajdini&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-
-</p>
-<p></p>
 
 ## 🏆 GitHub Trophies
 <!--      ![](https://github-trophies.vercel.app/?username=sh-tajdini&&rank=S,AA,SSS,SS,SECRET)  -->
