@@ -40,7 +40,9 @@ During my tenure at Pasargad Electronic Payment, I managed a team of 10 develope
 <p></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=sh-tajdini&&rank=S,AA,SSS,SS,SECRET)
+<!--      ![](https://github-trophies.vercel.app/?username=sh-tajdini&&rank=S,AA,SSS,SS,SECRET)  -->
+![](https://github-profile-trophy.vercel.app/?username=sh-tajdini&theme=dracula&no-frame=false&no-bg=false&margin-w=4&&rank=S,AA,A,AAA,SSS,SS,SECRET)
+
 
 
 ### 🔝 Top Contributed Repo
