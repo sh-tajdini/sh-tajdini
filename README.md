@@ -42,7 +42,7 @@ Experienced software developer with over six years of industry experience, contr
 <ul>
 	<li><i><a href="https://github.com/sh-tajdini/Getware-Snap-Shots/tree/main">Getware</a></i>:<ul><li>a product teams’ platform to get customers’ information
 </li></ul></li>
-	<li><i>Avand</i>:<ul><li>a discount platform project</li></ul></li>
+	<li><I><a href="https://github.com/sh-tajdini/Avand-Snap-Shots/tree/main">Avand</a></i>:<ul><li>a discount platform project</li></ul></li>
 <li><i><a href="https://pep.co.ir/suna">Suna</a></i>:<ul><li>a Loyalty platform project</li></ul></li>
   <li><i><a href="https://pep.co.ir/suniar/">Suniar</a></i>:<ul><li>a Report Management portal for merchant’s transactions
 </li>
