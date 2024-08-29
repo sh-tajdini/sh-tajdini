@@ -49,7 +49,7 @@ Experienced software developer with over six years of industry experience, contr
   </ul>
   </li>
 	<li><i><a href="https://react-my-burger-f2217.web.app/">BurgerBuilder</a></i>:<ul><li>a burger builder website</li></ul></li>
-	<li><i><a href="https://dapper-toffee-5f8bf2.netlify.app/login?redirect=%2F">ClientPanel</a></i>:<ul><li>a Social media platform</li></ul></li>
+	<li><i><a href="https://dapper-toffee-5f8bf2.netlify.app/">ClientPanel</a></i>:<ul><li>a Social media platform</li></ul></li>
 	<li><i><a href="https://shiny-chebakia-78e98b.netlify.app/">LoopLab</a></i>:<ul><li>a Social media and revenue platform</li></ul></li>
 		<li><i><a href="https://shopping-bag-shervin.netlify.app/#/">Shopping Bag With Vue.js</a></i>:<ul><li>a Shopping Platform platform with Vue.js</li></ul></li>
 	<li><i><a href="https://illustrious-parfait-fc0026.netlify.app/">Glozzom</a></i>:<ul><li>a sample Interactive website</li></ul></li>
