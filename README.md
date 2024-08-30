@@ -51,13 +51,14 @@ Experienced software developer with over six years of industry experience, contr
 	<li><i><a href="https://react-my-burger-f2217.web.app/">BurgerBuilder</a></i>:<ul><li>a burger builder website</li></ul></li>
 	<li><i><a href="https://dapper-toffee-5f8bf2.netlify.app/">ClientPanel</a></i>:<ul><li>a Social media platform</li></ul></li>
 	<li><i><a href="https://shiny-chebakia-78e98b.netlify.app/">LoopLab</a></i>:<ul><li>a Social media and revenue platform</li></ul></li>
-		<li><i><a href="https://shopping-bag-shervin.netlify.app/#/">Shopping Bag With Vue.js</a></i>:<ul><li>a Shopping Platform platform with Vue.js</li></ul></li>
+	<li><i><a href="https://shopping-bag-shervin.netlify.app/#/">Shopping Bag With Vue.js</a></i>:<ul><li>a Shopping Platform platform with Vue.js</li></ul></li>
 	<li><i><a href="https://illustrious-parfait-fc0026.netlify.app/">Glozzom</a></i>:<ul><li>a sample Interactive website</li></ul></li>
 	<li><i><a href="https://beautiful-taiyaki-5cedf9.netlify.app/">Blogen</a></i>:<ul><li>a sample admin website</li></ul></li>
 	<li><i><a href="https://visionary-faloodeh-33db6c.netlify.app/">Mizux</a></i>:<ul><li>a bootstrap sample website</li></ul></li>
 	<li><i><a href="https://cosmic-clafoutis-c8dbc8.netlify.app/">Portfolio</a></i>:<ul><li>a sample portfoli website</li></ul></li>
 	<li><i><a href="https://golden-blancmange-011c5c.netlify.app/#/">ContactManager</a></i>:<ul><li>a contact manager redux website</li></ul></li>
 	<li><i><a href="https://rococo-quokka-6131f0.netlify.app/">Wordle</a></i>:<ul><li>Guess word Game</li></ul></li>
+ 	
 	
 </ul>
 
