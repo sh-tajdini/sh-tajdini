@@ -58,7 +58,8 @@ Experienced software developer with over six years of industry experience, contr
 	<li><i><a href="https://cosmic-clafoutis-c8dbc8.netlify.app/">Portfolio</a></i>:<ul><li>a sample portfoli website</li></ul></li>
 	<li><i><a href="https://golden-blancmange-011c5c.netlify.app/#/">ContactManager</a></i>:<ul><li>a contact manager redux website</li></ul></li>
 	<li><i><a href="https://rococo-quokka-6131f0.netlify.app/">Wordle</a></i>:<ul><li>Guess word Game</li></ul>
-	<li><i><a href="https://expensetracker-sh.netlify.app/">Expense Tracker</a></i>:<ul><li>Expense Manager App Using React,Redux:Expense Tracker</a></li></ul>
+	<li><i><a href="https://expensetracker-sh.netlify.app/">Expense Tracker</a></i>:<ul><li>Expense Manager App Using React,Redux</li></ul>
+	<li><i><a href="https://shervintaskmanager.netlify.app/">Task Manager</a></i>:<ul><li>Task Manager App Using React, Redux, TailwindCss</li></ul>
 
 </li>
  	
