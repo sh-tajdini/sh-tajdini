@@ -60,6 +60,7 @@ Experienced software developer with over six years of industry experience, contr
 	<li><i><a href="https://rococo-quokka-6131f0.netlify.app/">Wordle</a></i>:<ul><li>Guess word Game</li></ul>
 	<li><i><a href="https://expensetracker-sh.netlify.app/">Expense Tracker</a></i>:<ul><li>Expense Manager App Using React,Redux</li></ul>
 	<li><i><a href="https://shervintaskmanager.netlify.app/">Task Manager</a></i>:<ul><li>Task Manager App Using React, Redux, TailwindCss</li></ul>
+ 	<li><i><a href="https://fluffy-scone-674ea8.netlify.app">Landing Page</a></i>:<ul><li>Landing Page App Using  TailwindCss</li></ul>
 
 </li>
  	
